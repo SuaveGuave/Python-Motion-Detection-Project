@@ -1,0 +1,12 @@
+File: C:/Users/bart3/PycharmProjects/Media Assignment/video files for testing/nv232.mov
+Motion Detected
+
+File: C:/Users/bart3/PycharmProjects/Media Assignment/video files for testing/Motion_midway.mov
+Motion Detected
+
+File: C:/Users/bart3/PycharmProjects/Media Assignment/video files for testing/nv232.mov
+Motion Detected
+
+File: C:/Users/bart3/PycharmProjects/Media Assignment/video files for testing/No_Motion.mov
+No Motion Detected
+
